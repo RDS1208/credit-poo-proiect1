@@ -38,17 +38,17 @@ Gestioneaza clientii si creditele bancii.
 - Afiseaza creditele unui client
 - Calculeaza venitul total al clientilor
 
-## Ce Poti Face
+**Ce Poti Face:**
 
- Creezi credite cu parametri personalizati
- Creezi clienti cu informatii personale
- Adaugi credite clientilor
- Verifi daca un client poate lua un credit nou (pe baza venitului)
- Efectuezi plati la credite
- Elimini creditele platite
- Vezi informatiile complete ale creditelor si clientilor
- Gestionezi mai multi clienti dintr-o banca
-
+ - Creezi credite cu parametri personalizati
+ - Creezi clienti cu informatii personale
+ - Adaugi credite clientilor
+ - Verifi daca un client poate lua un credit nou (pe baza venitului)
+ - Efectuezi plati la credite
+ - Elimini creditele platite
+ - Vezi informatiile complete ale creditelor si clientilor
+ - Gestionezi mai multi clienti dintr-o banca
+g
 
 
 
